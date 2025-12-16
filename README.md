@@ -1,4 +1,5 @@
-# Binaural Rendering Using HRTF
+# Binaural-Rendering-of-mono-sound
+
 
 This project is a MATLAB-based tool designed to simulate spatial audio experiences. By convolving a mono audio source with Head-Related Transfer Functions (HRTFs) corresponding to specific spatial locations, it generates binaural audio that mimics how sound is heard by human ears from a specific direction and distance.
 
